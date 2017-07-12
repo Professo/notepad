@@ -37,4 +37,18 @@
   **Вставка изображения**  
   
   ![IE](http://spb.zexler.ru/sites/default/files/styles/165x165/public/content/product/front/nastroika-yandeks-direkt.png?itok=fXmmTFtP)  
+    
+    `` `JSON
+   // код для окраски
+`` `
+`` `` HTML
+   // код для окраски
+`` `
+`` `JS
+   // код для окраски
+`` `
+`` `CSS
+   // код для окраски
+`` `
+// и т.д.
   
