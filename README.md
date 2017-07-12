@@ -34,5 +34,6 @@
   *****
   ***Пример3***
   *****
-  **Вставка изображения**
-  ![IE](http://alyona-.github.io/browser/img/IE.png)
+  **Вставка изображения**  
+  
+  ![IE](/browser/img/IE.png)
