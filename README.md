@@ -20,7 +20,7 @@
 [Мой сайт alyonaweb.ru (http://alyonaweb.ru "Скоро будет заполнятся")  
   
     
-    [Другой пример ссылки][1]
-    [1]Какой-то тест ляляля  
+    [Другой пример ссылки] [1]
+    [1] Какой-то тест ляляля  
       
-[http://itlana.ru]:http://itlana.ru      
+[http://itlana.ru]: http://itlana.ru      
