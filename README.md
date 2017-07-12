@@ -36,4 +36,4 @@
   *****
   **Вставка изображения**  
   
-  ![IE](/browser/img/IE.png)
+  ![IE](https://rusargument.ru/data/photo/041917_042781655165.gif)
