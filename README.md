@@ -36,4 +36,5 @@
   *****
   **Вставка изображения**  
   
-  ![IE](https://rusargument.ru/data/photo/041917_042781655165.gif)
+  ![IE](http://spb.zexler.ru/sites/default/files/styles/165x165/public/content/product/front/nastroika-yandeks-direkt.png?itok=fXmmTFtP)  
+  
